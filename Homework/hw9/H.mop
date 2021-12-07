@@ -1,0 +1,4 @@
+PM7 PM7 1SCF UHF RELSCF=0.0001 
+Title: ASE calculation
+
+ H  0.0 1 0.0 1 0.0 1
